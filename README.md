@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ciltx-Code
 - 👀 I’m interested in development.
-- 🌱 I’m currently studying at Paul Sabatier University in L3 MIAGE
+- 🌱 I’m currently studying at Paul Sabatier University in M1 MIAGE
 - 📫 How to reach me : lucas.garlaschi@yahoo.com
 
 <!---
